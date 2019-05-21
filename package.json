@@ -1,0 +1,29 @@
+{
+  "name": "cn-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.14.0",
+    "connect-multiparty": "^2.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daynalaurenc/cloudinary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daynalaurenc/cloudinary/issues"
+  },
+  "homepage": "https://github.com/daynalaurenc/cloudinary#readme"
+}
