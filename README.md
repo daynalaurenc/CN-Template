@@ -1,1 +1,1 @@
-# cloudinary
+# Cloudinary template
